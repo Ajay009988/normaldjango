@@ -1,0 +1,2 @@
+# normaldjango
+django
